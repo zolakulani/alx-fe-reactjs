@@ -6,7 +6,7 @@ function Navbar() {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      background: '#333',
+      backgroundColor: '#333',
       padding: '10px 0',
       marginBottom: '20px',
     }}>
